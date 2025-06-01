@@ -156,7 +156,7 @@ export default function Home() {
               alt="The Journey - Marathon Statistics, Start Line 2018, and Team Photo"
               width={1200}
               height={400}
-              className="w-full h-auto rounded-lg shadow-lg"
+              className="w-full h-auto object-cover rounded-lg shadow-lg"
             />
           </motion.div>
 
@@ -339,14 +339,14 @@ export default function Home() {
                 alt="Marathon Start Line 2018"
                 width={600}
                 height={200}
-                className="rounded-lg shadow-lg"
+                className="rounded-lg shadow-lg w-full h-full object-cover"
               />
               <img
                 src={night_marathon_start}
                 alt="Night Marathon Start"
                 width={600}
                 height={200}
-                className="rounded-lg shadow-lg"
+                className="rounded-lg shadow-lg w-full h-full object-cover"
               />
             </motion.div>
           </div>
@@ -491,7 +491,7 @@ export default function Home() {
               alt="Coimbatore Runners Community - One Community, Countless sMiles"
               width={1200}
               height={600}
-              className="w-full h-auto rounded-lg shadow-lg"
+              className="w-full h-auto rounded-lg shadow-lg object-cover"
             />
           </motion.div>
 
@@ -563,7 +563,7 @@ export default function Home() {
                 alt="Let's KO Cancer Display"
                 width={600}
                 height={400}
-                className="rounded-lg shadow-lg"
+                className="rounded-lg shadow-lg w-full h-full object-cover"
               />
             </motion.div>
           </div>
