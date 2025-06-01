@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import { Facebook, Instagram, Twitter, Mail, Phone, MapPin } from "lucide-react"
-import logo from "../assets/logo.png"
+import logo from "../assets/images/coimbatore-marathon-logo.png"
 
 const Footer = () => {
   return (
